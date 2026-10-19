@@ -10,13 +10,13 @@ flowchart LR
     end
 
     subgraph B["Modernidad e Ilustración"]
-        B1["**Desigualdad natural / Desigualdad social**
-        **Propiedad / Herencia**
+        B1["Desigualdad natural / Desigualdad social
+        Propiedad / Herencia
         Thomas Hobbes (1588–1679)"]
         B2["John Locke (1632–1704)
         FALTA"]
-        B3["**Desigualdad natural / Desigualdad social**
-        **Propiedad / Herencia / Poder**
+        B3["Desigualdad natural / Desigualdad social
+        Propiedad / Herencia / Poder
         Jean-Jacques Rousseau (1712–1778)"]
     end
 
@@ -32,16 +32,16 @@ flowchart LR
     end
 
     subgraph E["Enfoques Contemporáneos"]
-        E1["**Desigualdad**
-        **Acceso efectivo / Capacidades**
+        E1["Desigualdad
+        Acceso efectivo / Capacidades
         Amartya Sen (1933– )"]
-        E2["**Desigualdad socioespacial / Derecho a la ciudad**
+        E2["Desigualdad socioespacial / Derecho a la ciudad
         Henri Lefebvre (1901–1991)"]
-        E3["**Desigualdad urbana**
+        E3["Desigualdad urbana
         David Harvey (1935– )"]
-        E4["**Desigualdad urbana**
+        E4["Desigualdad urbana
         Manuel Castells (1942– )"]
-        E5["**Justicia espacial / Desigualdad espacial**
+        E5["Justicia espacial / Desigualdad espacial
         Edward W. Soja (1940–2015)"]
     end
 
