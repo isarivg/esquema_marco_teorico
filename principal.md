@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-  root((Acceso a servicios esenciales y su relación con la desigualdad))
+  root((Acceso a servicios urbanos y su relación con la desigualdad))
     Desigualdad
       Justicia
         Derecho civil
@@ -9,17 +9,22 @@ mindmap
       Derechos humanos
         Derecho a la salud
         Derecho a la educación
+        Acceso a Alimentos
     Pobreza
       Rezago social
       Periferia
       Marginación
-    Servicios esenciales
+    Servicios Urbanos
       Equipamiento
+      Infraestructura
+      Servicios
         Salud
         Educación
-      Servicios
-      Estado de bienestar
+        Canasta Básica alimentaria
+        Transporte
+        Recreación
       Accesibilidad
         Distancia
         Tiempo de traslado
+        Oportunidad
 ```
