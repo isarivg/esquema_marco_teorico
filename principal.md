@@ -13,13 +13,18 @@ mindmap
       Rezago social
       Periferia
       Marginación
-    Servicios esenciales
+    Servicios Urbanos
       Equipamiento
+      Infraestructura
+      Servicios
+        Vivienda
         Salud
         Educación
-      Servicios
-      Estado de bienestar
+        Abastecimiento
+        Recreación-Deporte
+        Transporte
       Accesibilidad
         Distancia
         Tiempo de traslado
+        Localización
 ```
