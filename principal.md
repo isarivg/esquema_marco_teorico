@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-  root((Acceso a servicios esenciales y su relación con la desigualdad))
+  root((Acceso a servicios urbanos y su relación con la desigualdad))
     Desigualdad
       Justicia
         Derecho civil
@@ -13,7 +13,7 @@ mindmap
       Rezago social
       Periferia
       Marginación
-    Servicios esenciales
+    Servicios Urbanos
       Equipamiento
         Salud
         Educación
