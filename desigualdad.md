@@ -58,11 +58,11 @@ Jürgen Habermas (1929–2026)`"]
 Amartya Sen (1933– )`"]
         E2["`** Derecho a la ciudad /  Producción social del Espacio**
 Henri Lefebvre (1901–1991)`"]
-        E3["`**Justicia territorial **
+        E3["`**Justicia territorial**
 David Harvey (1935– )`"]
-        E4["`**Desigualdad Urbana **
+        E4["`**Desigualdad Urbana**
 Manuel Castells (1942– )`"]
-        E5["`**Justicia espacial **
+        E5["`**Justicia espacial**
 Edward W. Soja (1940–2015)`"]
 
         E1 ~~~ E2 ~~~ E3 ~~~ E4 ~~~ E5
