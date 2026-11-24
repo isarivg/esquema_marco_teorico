@@ -39,15 +39,15 @@ Max Weber (1864–1920)`"]
     subgraph D["Desigualdad en el siglo XX"]
         direction LR
         D2["`**Ecología urbana y segregación**
-Robert E. Park (1864)`"]
+Robert E. Park (1864–1944)`"]
         D3["`**Seguridad social y protección frente a riesgos**
-William Beveridge (1879)`"]
+William Beveridge (1879–1963)`"]
         D4["`**Intervención pública, demanda y empleo**
 John Maynard Keynes (1883–1946)`"]
         D5["`**Ciudadanía y derechos sociales**
-T. H. Marshall (1893)`"]
+T. H. Marshall (1893–1981)`"]
         D6["`**Estado intervencionista y crisis de legitimación**
-Jürgen Habermas (1929)`"]
+Jürgen Habermas (1929–2026)`"]
 
         D2 ~~~ D3 ~~~ D4 ~~~ D5 ~~~ D6
     end
