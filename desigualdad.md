@@ -19,7 +19,7 @@ Platón (ca. 380 a. C.)`"]
  Thomas Hobbes (1588–1679)`"]
         B3["`**Desigualdad natural / Desigualdad social
         Propiedad / Herencia / Poder**
- Jean-Jacques Rousseau (1712–1778)`"]
+Jean-Jacques Rousseau (1712–1778)`"]
     end
 
     subgraph C["`**Sociedad Industrial*`"]
