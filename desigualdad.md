@@ -1,12 +1,13 @@
 ```mermaid
 flowchart LR
     subgraph A["Antigüedad Clásica y Edad Media"]
-        A1["Platón (427–347 a. C.)
+        A3["Tomás de Aquino (1225–1274)
         FALTA"]
         A2["Aristóteles (384–322 a. C.)
         FALTA"]
-        A3["Tomás de Aquino (1225–1274)
-        FALTA"]
+        A1["Platón, ca. 380 a. C)
+        Justicia, División de funciones, Órden de la ciudad"]
+
     end
 
     subgraph B["Modernidad e Ilustración"]
