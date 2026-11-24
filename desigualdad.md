@@ -66,8 +66,8 @@ Manuel Castells (1942– )`"]
 Edward W. Soja (1940–2015)`"]
 
         E1 ~~~ E2 ~~~ E3 ~~~ E4 ~~~ E5
-    A --> B --> C --> D --> E
-    end
 
+    end
+    A --> B --> C --> D --> E
     style D0 fill:none,stroke:none
 ```
