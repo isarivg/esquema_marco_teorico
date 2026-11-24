@@ -3,9 +3,9 @@
 config:
   htmlLabels: false
 ---
-flowchart TB
+flowchart TD
     subgraph A["Antigüedad clásica y Edad Media"]
-        direction TB
+        direction LR
         A1["`**Justicia / División de funciones / Orden de la ciudad**
 Platón (ca. 380 a. C.)`"]
         A2["`**Justicia distributiva**
@@ -17,7 +17,7 @@ Tomás de Aquino (1225–1274)`"]
     end
 
     subgraph B["Modernidad e Ilustración"]
-        direction TB
+        direction LR
         B1["`**Desigualdad natural / Desigualdad social / Propiedad / Herencia**
 Thomas Hobbes (1588–1679)`"]
         B3["`**Desigualdad natural / Desigualdad social / Propiedad / Herencia / Poder**
@@ -27,7 +27,7 @@ Jean-Jacques Rousseau (1712–1778)`"]
     end
 
     subgraph C["Sociedad industrial"]
-        direction TB
+        direction LR
         C1["`**Desigualdad de clases / Medios y modos de producción / Plusvalía**
 Karl Marx (1818–1883)`"]
         C2["`**Clase / Estatus / Partido**
@@ -37,13 +37,13 @@ Max Weber (1864–1920)`"]
     end
 
     subgraph D["Desigualdad en el siglo XX"]
-        direction TB
+        direction LR
         D2["`**Ecología urbana y segregación**
 Robert E. Park (1864)`"]
         D3["`**Seguridad social y protección frente a riesgos**
 William Beveridge (1879)`"]
         D4["`**Intervención pública, demanda y empleo**
-John Maynard Keynes (1883)`"]
+John Maynard Keynes (1883–1946)`"]
         D5["`**Ciudadanía y derechos sociales**
 T. H. Marshall (1893)`"]
         D6["`**Estado intervencionista y crisis de legitimación**
@@ -53,7 +53,7 @@ Jürgen Habermas (1929)`"]
     end
 
     subgraph E["Enfoques contemporáneos"]
-        direction TB
+        direction LR
         E1["`**Desigualdad / Acceso efectivo / Capacidades**
 Amartya Sen (1933– )`"]
         E2["`**Desigualdad socioespacial / Derecho a la ciudad**
@@ -66,6 +66,9 @@ Manuel Castells (1942– )`"]
 Edward W. Soja (1940–2015)`"]
 
         E1 ~~~ E2 ~~~ E3 ~~~ E4 ~~~ E5
+    end
+
+    A --> B --> C --> D --> E
     end
 
     A --> B --> C --> D --> E
