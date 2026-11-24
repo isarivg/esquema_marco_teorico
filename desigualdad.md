@@ -18,14 +18,14 @@ Platón (ca. 380 a. C.)`"]
         B1["`**Desigualdad natural / Desigualdad social
         Propiedad / Herencia**
         Thomas Hobbes (1588–1679)`"]
-        B3["Desigualdad natural / Desigualdad social
-        Propiedad / Herencia / Poder
-        Jean-Jacques Rousseau (1712–1778)"]
+        B3["`**Desigualdad natural / Desigualdad social
+        Propiedad / Herencia / Poder**
+        Jean-Jacques Rousseau (1712–1778)`"]
     end
 
-    subgraph C["Sociedad Industrial"]
-        C1["Karl Marx (1818–1883)
-        FALTA"]
+    subgraph C["`**Sociedad Industrial*`"]
+        C1[""`**Desigualdad de clases / Mediodios y Modos de producción / Plusvalía**
+        Karl Marx (1818–1883)`"]
         C2["Max Weber (1864–1920)
         FALTA"]
     end
