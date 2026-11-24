@@ -38,15 +38,15 @@ Max Weber (1864–1920)`"]
 
     subgraph D["Desigualdad en el siglo XX"]
         direction LR
-        D2["`**Ecología urbana y segregación**
+        D2["`**Ecología urbana**
 Robert E. Park (1864–1944)`"]
-        D3["`**Seguridad social y protección frente a riesgos**
+        D3["`**Seguridad social**
 William Beveridge (1879–1963)`"]
-        D4["`**Intervención pública, demanda y empleo**
+        D4["`**Intervención pública / Empleo**
 John Maynard Keynes (1883–1946)`"]
-        D5["`**Ciudadanía y derechos sociales**
+        D5["`**Ciudadanía y/ Derechos Sociales**
 T. H. Marshall (1893–1981)`"]
-        D6["`**Estado intervencionista y crisis de legitimación**
+        D6["`**Opinión Pública / Legitimidad del Estado**
 Jürgen Habermas (1929–2026)`"]
 
         D2 ~~~ D3 ~~~ D4 ~~~ D5 ~~~ D6
@@ -56,13 +56,13 @@ Jürgen Habermas (1929–2026)`"]
         direction LR
         E1["`**Desigualdad / Acceso efectivo / Capacidades**
 Amartya Sen (1933– )`"]
-        E2["`**Desigualdad socioespacial / Derecho a la ciudad**
+        E2["`** Derecho a la ciudad /  Producción social del Espacio**
 Henri Lefebvre (1901–1991)`"]
-        E3["`**Desigualdad urbana**
+        E3["`**Justicia territorial**
 David Harvey (1935– )`"]
-        E4["`**Desigualdad urbana**
+        E4["`**Desigualdad Urbana**
 Manuel Castells (1942– )`"]
-        E5["`**Justicia espacial / Desigualdad espacial**
+        E5["`**Justicia espacial **
 Edward W. Soja (1940–2015)`"]
 
         E1 ~~~ E2 ~~~ E3 ~~~ E4 ~~~ E5
