@@ -1,12 +1,11 @@
 ```mermaid
 flowchart LR
-    subgraph A["Antigüedad Clásica y Edad Media"]
-
+    subgraph A["**Antigüedad Clásica y Edad Media**"]
         A2[" Justicia Distributiva /
             Aristóteles (384–322 a. C.)"]
         A3["Bien Común
             Tomás de Aquino (1225–1274)"]
-        A1["Justicia / División de funciones/ Órden de la ciudad
+        A1["Justicia / División de funciones/ Orden de la ciudad
             (Platón, ca. 380 a. C)"]
 
     end
@@ -15,8 +14,6 @@ flowchart LR
         B1["Desigualdad natural / Desigualdad social
         Propiedad / Herencia
         Thomas Hobbes (1588–1679)"]
-        B2["John Locke (1632–1704)
-        FALTA"]
         B3["Desigualdad natural / Desigualdad social
         Propiedad / Herencia / Poder
         Jean-Jacques Rousseau (1712–1778)"]
