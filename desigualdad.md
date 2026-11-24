@@ -3,7 +3,7 @@
 config:
   htmlLabels: false
 ---
-info
+
 
 flowchart LR
     subgraph A["**Antigüedad Clásica y Edad Media**"]
