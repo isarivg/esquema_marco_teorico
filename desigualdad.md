@@ -1,12 +1,12 @@
 ```mermaid
 flowchart LR
     subgraph A["Antigüedad Clásica y Edad Media"]
-        A3["Tomás de Aquino (1225–1274)
-        FALTA"]
-        A2["Aristóteles (384–322 a. C.)
-        FALTA"]
-        A1["Platón, ca. 380 a. C)
-        Justicia, División de funciones, Órden de la ciudad"]
+        A3["Bien Común
+            Tomás de Aquino (1225–1274)"]
+        A2[" Justicia Distributiva /
+            Aristóteles (384–322 a. C.)"]
+        A1["Justicia / División de funciones/ Órden de la ciudad
+            (Platón, ca. 380 a. C)"]
 
     end
 
