@@ -29,8 +29,19 @@ Jean-Jacques Rousseau (1712–1778)`"]
         Max Weber (1864–1920)`"]
     end
 
-    subgraph D["Primera mitad del siglo XX"]
-        D0[" "]
+    subgraph D["`**Aun no tengo nombre**`"]
+        D1["`**Intervención Pública**
+        John Maynard Keynes  (1883-1946)`"]
+        D2["`**Ecología urbana y segregación**
+        Robert E. Park (1864)`"]
+        D3["`**Seguridad social y protección frente a riesgos**
+        William Beveridge (1879)`"]
+        D4["`**Intervención pública, demanda y empleo**
+        John Maynard Keynes (1883)`"]
+        D5["`**Ciudadanía y derechos sociales**
+        T. H. Marshall (1893)`"]
+        D6["`**Estado intervencionista y crisis de legitimación**
+        Jürgen Habermas (1929)`"]
     end
 
     subgraph E["Enfoques Contemporáneos"]
