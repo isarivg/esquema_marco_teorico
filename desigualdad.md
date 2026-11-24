@@ -4,15 +4,15 @@ config:
   htmlLabels: false
 ---
 flowchart LR
-    subgraph A["`**Antigüedad Clásica y Edad Media`**"]
-        A2[" Justicia Distributiva /
-            Aristóteles (384–322 a. C.)"]
-        A3["Bien Común
-            Tomás de Aquino (1225–1274)"]
-        A1["Justicia / División de funciones/ Orden de la ciudad
-            (Platón, ca. 380 a. C)"]
-
+    subgraph A["`**Antigüedad clásica y Edad Media**`"]
+        A2["`**Justicia distributiva**
+Aristóteles (384–322 a. C.)`"]
+        A3["`**Bien común**
+Tomás de Aquino (1225–1274)`"]
+        A1["`**Justicia / División de funciones / Orden de la ciudad**
+Platón (ca. 380 a. C.)`"]
     end
+
 
     subgraph B["Modernidad e Ilustración"]
         B1["Desigualdad natural / Desigualdad social
