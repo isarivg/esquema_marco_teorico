@@ -49,4 +49,5 @@ flowchart LR
     end
 
     A --> B --> C --> D --> E
+    style D0 fill:none,stroke:none
 ```
