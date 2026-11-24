@@ -3,7 +3,7 @@
 config:
   htmlLabels: false
 ---
-flowchart TD
+flowchart TB
     subgraph A["Antigüedad clásica y Edad Media"]
         direction TB
         A1["`**Justicia / División de funciones / Orden de la ciudad**
