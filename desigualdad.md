@@ -56,7 +56,7 @@ Jürgen Habermas (1929–2026)`"]
         direction LR
         E1["`**Desigualdad / Acceso efectivo / Capacidades**
 Amartya Sen (1933– )`"]
-        E2["`** Derecho a la ciudad /  Producción social del Espacio**
+        E2["`**Derecho a la ciudad /  Producción social del Espacio**
 Henri Lefebvre (1901–1991)`"]
         E3["`**Justicia territorial**
 David Harvey (1935– )`"]
