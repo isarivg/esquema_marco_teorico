@@ -22,11 +22,11 @@ Platón (ca. 380 a. C.)`"]
 Jean-Jacques Rousseau (1712–1778)`"]
     end
 
-    subgraph C["`**Sociedad Industrial*`"]
+    subgraph C["`**Sociedad Industrial**`"]
         C1["`**Desigualdad de clases / Mediodios y Modos de producción / Plusvalía**
         Karl Marx (1818–1883)`"]
-        C2["Max Weber (1864–1920)
-        FALTA"]
+        C2[""`**Clase / Estatus / Partido**
+        Max Weber (1864–1920)`"]
     end
 
     subgraph D["Primera mitad del siglo XX"]
