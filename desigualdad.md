@@ -69,5 +69,5 @@ Edward W. Soja (1940–2015)`"]
 
     end
     A --> B --> C --> D --> E
-    style fill:none,stroke:none
+    style D0 fill:none,stroke:none
 ```
