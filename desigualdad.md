@@ -14,9 +14,9 @@ Platón (ca. 380 a. C.)`"]
     end
 
 
-    subgraph B["Modernidad e Ilustración"]
+    subgraph B["`**Modernidad e Ilustración**`"]
         B1["`**Desigualdad natural / Desigualdad social
-        Propiedad / Herencia
+        Propiedad / Herencia**
         Thomas Hobbes (1588–1679)`"]
         B3["Desigualdad natural / Desigualdad social
         Propiedad / Herencia / Poder
