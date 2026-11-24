@@ -1,6 +1,12 @@
 ```mermaid
+---
+config:
+  htmlLabels: false
+---
+info
+
 flowchart LR
-    subgraph A[´**Antigüedad Clásica y Edad Media**´]
+    subgraph A["**Antigüedad Clásica y Edad Media**"]
         A2[" Justicia Distributiva /
             Aristóteles (384–322 a. C.)"]
         A3["Bien Común
