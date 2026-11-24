@@ -13,7 +13,6 @@ Tomás de Aquino (1225–1274)`"]
 Platón (ca. 380 a. C.)`"]
     end
 
-
     subgraph B["`**Modernidad e Ilustración**`"]
         B1["`**Desigualdad natural / Desigualdad social
         Propiedad / Herencia**
