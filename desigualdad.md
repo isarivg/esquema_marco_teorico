@@ -23,7 +23,7 @@ Jean-Jacques Rousseau (1712–1778)`"]
     end
 
     subgraph C["`**Sociedad Industrial*`"]
-        C1[""`**Desigualdad de clases / Mediodios y Modos de producción / Plusvalía**
+        C1["`**Desigualdad de clases / Mediodios y Modos de producción / Plusvalía**
         Karl Marx (1818–1883)`"]
         C2["Max Weber (1864–1920)
         FALTA"]
