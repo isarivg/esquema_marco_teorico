@@ -6,7 +6,8 @@ mindmap
         Derecho civil
         Justicia social
         Justicia espacial
-      Derechos humanos
+    Estado de Bienestar
+        Derechos sociales
         Derecho a la salud
         Derecho a la educación
     Pobreza
@@ -27,4 +28,6 @@ mindmap
         Distancia
         Tiempo de traslado
         Localización
+    Posibilidades reales de uso
+        Capacidades y circunstancias de las personas
 ```
